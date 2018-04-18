@@ -44,7 +44,7 @@ I have also included a directory called "test_photos" which includes some random
 
 Here's what the results looks like using the doberman_2.jpg file: <br>
 
-<img src="https://github.com/moon05/transfer_learning_tensorflow/blob/master/test_photos/doberman_2.jpg" height="75">
+<img src="https://github.com/moon05/transfer_learning_tensorflow/blob/master/test_photos/doberman_2.jpg" height="200">
 
 ![alt text][result]<br>
 
