@@ -56,3 +56,5 @@ Here's the output from that: <br>
 [dob_2]: https://github.com/moon05/transfer_learning_tensorflow/blob/master/test_photos/doberman_2.jpg
 [result]: https://github.com/moon05/transfer_learning_tensorflow/blob/master/sample_result_screenshot.png
 
+---
+
