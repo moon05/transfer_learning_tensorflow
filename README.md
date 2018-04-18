@@ -49,6 +49,6 @@ Here's what the results looks like using the doberman_2.jpg file: <br>
 
 [page]: http://vision.stanford.edu/aditya86/ImageNetDogs/
 [here]: http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar
-[dob_2]: https://github.com/moon05/transfer_learning_tensorflow/blob/master/test_photos/doberman_2.jpg
+[dob_2]: https://github.com/moon05/transfer_learning_tensorflow/blob/master/test_photos/doberman_2.jpg | height=75
 [result]: https://github.com/moon05/transfer_learning_tensorflow/blob/master/sample_result_screenshot.png
 
