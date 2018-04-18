@@ -2,7 +2,7 @@
 
 I peformed image classification on the Stanford Dogs Dataset. The dataset contains images of 120 breeds of dogs. You can read more about the dataset on this [page]. You can directly download the Images [here]. <br>
 
-I used different models to test experiment what kind of accuracy is obtainable. <br>
+I used different models to experiment what kind of accuracy is obtainable. <br>
 
 |Model        | Learning Steps | Accuracy|
 |-------------|----------------|----------|
