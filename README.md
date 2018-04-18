@@ -22,11 +22,11 @@ If you would like to test this model out you can use the label_image.py script t
 
 __Format__:
 
-python label_image.py --graph_data=<whichever_output_graph_learning_rate> --labels=output_labels.txt --input_layer=Placeholder --output_layer=final_result --image=<name_of_image_you_want_to_test> <br>
+`python label_image.py --graph_data=<whichever_output_graph_learning_rate> --labels=output_labels.txt --input_layer=Placeholder --output_layer=final_result --image=<name_of_image_you_want_to_test>` <br>
 
 __Example__:
 
-python label_image.py --graph_data=output_graph_inception_1000.pb --labels=output_labels.txt --input_layer=Placeholder --output_layer=final_result --image=./test_photos/doberman_2.jpg <br>
+`python label_image.py --graph_data=output_graph_inception_1000.pb --labels=output_labels.txt --input_layer=Placeholder --output_layer=final_result --image=./test_photos/doberman_2.jpg` <br>
 
 This will print out couple dog breed names followed by the likeliness of the picture belonging to that breed of dog. <br>
 
