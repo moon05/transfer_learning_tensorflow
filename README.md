@@ -38,7 +38,7 @@ Some of the popular dog breed names that exist in the directory: <br>
 
 Here are some less common dog breeds but equally beautiful looking: <br>
 
-1.Afghan Hound, 2. Giant Schnauzer, 3. Ibizan Hound, 4. Irish Wolfhound, 5. Kuvasz 6. Vizsla, 7. Weimaraner <br>
+1. Afghan Hound, 2. Giant Schnauzer, 3. Ibizan Hound, 4. Irish Wolfhound, 5. Kuvasz, 6. Vizsla, 7. Weimaraner <br>
 
 I have also included a directory called "test_photos" which includes some random pictures of some dog breeds I grabbed from simple Google image searching if you think that would be easier for you to test it out.
 
