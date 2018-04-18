@@ -42,9 +42,11 @@ Here are some less common dog breeds but equally beautiful looking: <br>
 
 I have also included a directory called "test_photos" which includes some random pictures of some dog breeds I grabbed from simple Google image searching if you think that would be easier for you to test it out.
 
-Here's what the results looks like using the doberman_2.jpg file: <br>
+Here's the doberman_2.jpg image: <br>
 
 <img src="https://github.com/moon05/transfer_learning_tensorflow/blob/master/test_photos/doberman_2.jpg" height="300">
+
+Here's the output from that: <br>
 
 ![alt text][result]<br>
 
