@@ -7,9 +7,9 @@ I used different models to experiment what kind of accuracy is obtainable. <br>
 |Model        | Learning Steps | Accuracy|
 |-------------|----------------|----------|
 |Inception-v3 | 1000           | 92%      |
-|Inception-v3 | 4000           |          |
-|Resnet       | 4000           |          |
-|Mobilenet    | 4000           |          |
+|Inception-v3 | 4000           | 94%      |
+|Resnet       | 4000           | 96%      |
+|Mobilenet    | 4000           | 80%      |
 
 
 ## Requirements
